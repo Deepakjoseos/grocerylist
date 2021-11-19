@@ -1,0 +1,102 @@
+{
+    "grocery":[
+        {
+        "Number": "1",
+        "Name": "Onion",
+        "Quantity": "1",
+        "Unit": "Kg",
+        "Department": "Vegetables",
+        "Notes": "Should be fresh"
+         },
+        {
+            "Number": "2",
+            "Name": "Banana",
+            "Quantity": "2",
+            "Unit": "Kg",
+            "Department": "Fruits",
+            "Notes": "Should be fresh"
+        },
+        
+        {
+            "Number": "3",
+            "Name": "Coconut Oil",
+            "Quantity": "2",
+            "Unit": "Litre",
+            "Department": "Grocery",
+            "Notes": "Parachute Oil Prefered"
+        },
+        {
+            "Number": "4",
+            "Name": "Bread",
+            "Quantity": "1",
+            "Unit": "Pkt",
+            "Department": "Bakery",
+            "Notes": "Should be fresh"
+        },
+        {
+            "Number": "5",
+            "Name": "Ghee",
+            "Quantity": "1",
+            "Unit": "l",
+            "Department": "Dairy",
+            "Notes": "Amul"
+        },
+        {
+            "Number": "6",
+            "Name": "Chilli Powder",
+            "Quantity": "500",
+            "Unit": "gm",
+            "Department": "Spices",
+            "Notes": "Kashmiri prefered"
+        },
+        {
+            "Number": "7",
+            "Name": "Carrot",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Grocery",
+            "Notes": "Should be fresh"
+        },
+        {
+            "Number": "8",
+            "Name": "Salt",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Grocery",
+            "Notes": "Sprinkle"
+        },
+        {
+            "Number": "9",
+            "Name": "Rice",
+            "Quantity": "20",
+            "Unit": "Kg",
+            "Department": "Grocery",
+            "Notes": "Pavizham"
+        },
+        {
+            "Number": "10",
+            "Name": "Tomato",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Fresh"
+        },
+        {
+            "Number": "11",
+            "Name": "Milk",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Dairy",
+            "Notes": "Milma"
+        },
+        {
+            "Number": "12",
+            "Name": "Potato",
+            "Quantity": "2",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Should be Fresh"
+        }
+
+    ]
+}
