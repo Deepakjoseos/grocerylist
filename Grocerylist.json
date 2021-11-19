@@ -37,7 +37,7 @@
             "Number": "5",
             "Name": "Ghee",
             "Quantity": "1",
-            "Unit": "l",
+            "Unit": "Litre",
             "Department": "Dairy",
             "Notes": "Amul"
         },
@@ -68,10 +68,10 @@
         {
             "Number": "9",
             "Name": "Rice",
-            "Quantity": "20",
+            "Quantity": "10",
             "Unit": "Kg",
             "Department": "Grocery",
-            "Notes": "Pavizham"
+            "Notes": "Periyar Rice"
         },
         {
             "Number": "10",
@@ -79,15 +79,15 @@
             "Quantity": "1",
             "Unit": "Kg",
             "Department": "Vegetables",
-            "Notes": "Fresh"
+            "Notes": "Should be Fresh"
         },
         {
             "Number": "11",
             "Name": "Milk",
-            "Quantity": "500",
-            "Unit": "ml",
+            "Quantity": "1",
+            "Unit": "Litre",
             "Department": "Dairy",
-            "Notes": "Milma"
+            "Notes": "Goodlife"
         },
         {
             "Number": "12",
